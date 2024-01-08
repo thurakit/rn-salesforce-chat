@@ -25,7 +25,7 @@
     "react-native": "0.61.2"
   },
   "peerDependencies": {
-    "react-native": "0.61.2"
+    "react-native": "*"
   },
   "scripts": {
     "test": "jest --coverage"
